@@ -1,0 +1,42 @@
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\BUS\obj\Debug\BUS.pdb
+H:\Solution\CCBH\CCBH\BUS\bin\Debug\BUS.dll
+H:\Solution\CCBH\CCBH\BUS\bin\Debug\BUS.pdb
+H:\Solution\CCBH\CCBH\BUS\bin\Debug\DAL.dll
+H:\Solution\CCBH\CCBH\BUS\bin\Debug\DAL.pdb
+H:\Solution\CCBH\CCBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+H:\Solution\CCBH\CCBH\BUS\obj\Debug\BUS.dll
+H:\Solution\CCBH\CCBH\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\BUS\obj\Debug\BUS.pdb

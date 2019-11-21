@@ -1,0 +1,31 @@
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Solution\CCBH\CCBH\DAL\bin\Debug\DAL.dll.config
+H:\Solution\CCBH\CCBH\DAL\bin\Debug\DAL.dll
+H:\Solution\CCBH\CCBH\DAL\bin\Debug\DAL.pdb
+H:\Solution\CCBH\CCBH\DAL\obj\Debug\DAL.dll
+H:\Solution\CCBH\CCBH\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\DAL\obj\Debug\DAL.pdb

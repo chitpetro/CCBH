@@ -1,0 +1,3038 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Language>
+    <name>f_main.ribbonStatusBar</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main</name>
+    <value>SeaFood World</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1</name>
+    <value>Chức Năng</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup14</name>
+    <value>POS</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup14.btnpos</name>
+    <value>POS</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup1</name>
+    <value>Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup1.btnnhapkho</name>
+    <value>Nhập Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup1.btnbanhang</name>
+    <value>Xuất Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup9</name>
+    <value>Tiền Mặt</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup9.btnphieuthu</name>
+    <value>Phiếu Thu</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage1.ribbonPageGroup9.btnphieuchi</name>
+    <value>Phiếu Chi</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2</name>
+    <value>Danh Mục</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup2</name>
+    <value>Danh Mục Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup2.btnloaisp</name>
+    <value>Loại Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup2.btnsanpham</name>
+    <value>Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup2.btngiasp</name>
+    <value>Giá Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup6</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup6.btnnhomdoituong</name>
+    <value>Nhóm Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup6.btndoituong</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7</name>
+    <value>Danh Mục</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7.btnloainhap</name>
+    <value>Loại Nhập</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7.btnloaixuat</name>
+    <value>Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7.btnloaithu</name>
+    <value>Loại Thu</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7.btnloaichi</name>
+    <value>Loại Chi</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7.btnmuccp</name>
+    <value>Mục Chi Phí</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup7.btntiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4</name>
+    <value>Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup3</name>
+    <value>Báo Cáo Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup3.btnbcnhapkho</name>
+    <value>Nhập Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup3.btnxuatkho</name>
+    <value>Báo Cáo Xuất Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup3.btnbcnhapxuatton</name>
+    <value>Báo Cáo Nhập Xuất Tồn</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup10</name>
+    <value>Tiền Mặt</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup10.btnbcthutien</name>
+    <value>Thu Tiền</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup10.btnbcpchi</name>
+    <value>Chi Tiền</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup10.btnbcthuchi</name>
+    <value>Sổ Chi Tiết Thu Chi</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup11</name>
+    <value>Doanh Thu</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup11.btnbcdoanhthu</name>
+    <value>Doanh Thu Bán Hàng</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup11.barButtonItem1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup12</name>
+    <value>Công Nợ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup12.btnbccongno_ncc</name>
+    <value>Nhà Cung Cấp</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup13</name>
+    <value>Biểu Đồ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup13.btnbieudodoanhthuchiphi</name>
+    <value>Doanh Thu &amp;&amp; Chi Phí</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup13.btndothidoanhthu</name>
+    <value>Tổng Doanh Thu Theo Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup13.btndothidoanhthu_duong</name>
+    <value>Doanh Thu (Biểu Đồ Đường)</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup16</name>
+    <value>Lãi lỗ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup16.btnchaygiavon</name>
+    <value>Chạy Giá Vốn</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage4.ribbonPageGroup16.btnbclailo</name>
+    <value>Kết Quả Kinh Doanh</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5</name>
+    <value>Hệ Thống</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup15</name>
+    <value>Option</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup15.btnhistory</name>
+    <value>History</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup15.btnngonngu</name>
+    <value>Ngôn Ngữ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup4</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup4.btnnhomdonvi</name>
+    <value>Nhóm Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup4.btndonvi</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup4.btnphongban</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup5</name>
+    <value>Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup5.btnaccount</name>
+    <value>Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup5.btnphanquyen</name>
+    <value>Phân Quyền</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup5.btndangxuat</name>
+    <value>Đăng Xuất</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup8</name>
+    <value>Main Money</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage5.ribbonPageGroup8.btnmaincurrency</name>
+    <value>Tiền Tệ Chính</value>
+  </Language>
+  <Language>
+    <name>f_POS</name>
+    <value>Bán Hàng</value>
+  </Language>
+  <Language>
+    <name>f_POS2</name>
+    <value>POS</value>
+  </Language>
+  <Language>
+    <name>f_POS2.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_POS2.layoutControlGroup3</name>
+    <value>Total (Kip)</value>
+  </Language>
+  <Language>
+    <name>f_POS2.layoutControlGroup4</name>
+    <value>Customer</value>
+  </Language>
+  <Language>
+    <name>f_POS2.layoutControlItem2</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_POS2.layoutControlItem3</name>
+    <value>Phone</value>
+  </Language>
+  <Language>
+    <name>f_POS2.lblteniddt</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_POS2.layoutControlGroup1</name>
+    <value>layoutControlGroup1</value>
+  </Language>
+  <Language>
+    <name>f_POS2.gd.colsoluong</name>
+    <value>Amount</value>
+  </Language>
+  <Language>
+    <name>f_POS2.gd.coldongia</name>
+    <value>Price</value>
+  </Language>
+  <Language>
+    <name>f_POS2.gd.colthanhtien</name>
+    <value>Total</value>
+  </Language>
+  <Language>
+    <name>f_POS2.gd.gridColumn1</name>
+    <value>Item</value>
+  </Language>
+  <Language>
+    <name>f_POS2.lobath</name>
+    <value>Bath</value>
+  </Language>
+  <Language>
+    <name>f_POS2.lousd</name>
+    <value>USD</value>
+  </Language>
+  <Language>
+    <name>f_POS2.layoutControlGroup2</name>
+    <value>layoutControlGroup2</value>
+  </Language>
+  <Language>
+    <name>f_POS2.playvideo</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_POS.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlItem4</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlItem5</name>
+    <value>Ngày</value>
+  </Language>
+  <Language>
+    <name>f_POS.txtkhachhang.gridColumn1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_POS.txtkhachhang.gridColumn2</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_POS.txtkhachhang.gridColumn3</name>
+    <value>Số Điện Thoại</value>
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlItem6</name>
+    <value>Mã KH</value>
+  </Language>
+  <Language>
+    <name>f_POS.lbltenkh</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlItem8</name>
+    <value>Kho</value>
+  </Language>
+  <Language>
+    <name>f_POS.lbltendonvi</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlItem10</name>
+    <value>Nhân Viên</value>
+  </Language>
+  <Language>
+    <name>f_POS.lbltennhanvien</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_POS.gd.colsoluong</name>
+    <value>Số Lượng</value>
+  </Language>
+  <Language>
+    <name>f_POS.gd.coldongia</name>
+    <value>Đơn Giá</value>
+  </Language>
+  <Language>
+    <name>f_POS.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_POS.gd.colghichu</name>
+    <value>Delete</value>
+  </Language>
+  <Language>
+    <name>f_POS.gd.gridColumn4</name>
+    <value>Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_POS.btnpay</name>
+    <value>Thanh Toán</value>
+  </Language>
+  <Language>
+    <name>f_POS.btnnew</name>
+    <value>New</value>
+  </Language>
+  <Language>
+    <name>f_POS.btncancel</name>
+    <value>Cancel</value>
+  </Language>
+  <Language>
+    <name>f_POS.lobath</name>
+    <value>Bath</value>
+  </Language>
+  <Language>
+    <name>f_POS.lousd</name>
+    <value>USD</value>
+  </Language>
+  <Language>
+    <name>f_POS.btnprint</name>
+    <value>Print</value>
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlGroup1</name>
+    <value>layoutControlGroup1</value>
+  </Language>
+  <Language>
+    <name>f_POS.glc</name>
+    <value>galleryControl1</value>
+  </Language>
+  <Language>
+    <name>f_POS.layoutControlItem2</name>
+    <value>Mã Vạch</value>
+  </Language>
+  <Language>
+    <name>f_POS.checksl</name>
+    <value>Số Lượng</value>
+  </Language>
+  <Language>
+    <name>f_POS.lblmavach</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_POS.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dsgiasp</name>
+    <value>Danh Sách Giá Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn1</name>
+    <value>Key</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn6</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn2</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn3</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn4</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn5</name>
+    <value>Loại Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dsgiasp.gd.gridColumn7</name>
+    <value>Giá</value>
+  </Language>
+  <Language>
+    <name>frmds.btnthem</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>frmds.btnsua</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>frmds.btnxoa</name>
+    <value>Xóa</value>
+  </Language>
+  <Language>
+    <name>frmds.btnprint</name>
+    <value>print</value>
+  </Language>
+  <Language>
+    <name>frmds.btnxls</name>
+    <value>Excel</value>
+  </Language>
+  <Language>
+    <name>frmds.btnreload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>frmds.btnsaochep</name>
+    <value>Sao Chép</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham</name>
+    <value>Danh Sách Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham.gd.gridColumn1</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham.gd.gridColumn2</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham.gd.gridColumn3</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham.gd.gridColumn4</name>
+    <value>Loại Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dssanpham.gd.gridColumn5</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_giasp</name>
+    <value>Giá Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_giasp.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_giasp.txtidsp.gridColumn1</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_giasp.txtidsp.gridColumn2</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_giasp.txtidsp.gridColumn3</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_giasp.layoutControlItem1</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_giasp.lbldonvi</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_giasp.layoutControlItem4</name>
+    <value>Giá Bán</value>
+  </Language>
+  <Language>
+    <name>f_giasp.lbltensp</name>
+    <value />
+  </Language>
+  <Language>
+    <name>frmthemds.btnluu</name>
+    <value>Lưu &amp;&amp; Đóng</value>
+  </Language>
+  <Language>
+    <name>frmthemds.btnhuy</name>
+    <value>Hủy</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.ribbonPage2.ribbonPageGroup2.btngiamgia</name>
+    <value>Khuyến Mãi/Giảm Giá</value>
+  </Language>
+  <Language>
+    <name>f_POS.gd.gridColumn5</name>
+    <value>Chiết Khấu</value>
+  </Language>
+  <Language>
+    <name>f_POS2.gd.gridColumn2</name>
+    <value>Discount</value>
+  </Language>
+  <Language>
+    <name>frm.btnmo</name>
+    <value>Mở(F1)</value>
+  </Language>
+  <Language>
+    <name>frm.btnthem</name>
+    <value>Thêm(F2)</value>
+  </Language>
+  <Language>
+    <name>frm.btnluu</name>
+    <value>Lưu(F4)</value>
+  </Language>
+  <Language>
+    <name>frm.btnsua</name>
+    <value>Sửa(F5)</value>
+  </Language>
+  <Language>
+    <name>frm.btnxoa</name>
+    <value>Xóa(F6)</value>
+  </Language>
+  <Language>
+    <name>frm.btnreload</name>
+    <value>Reload(F7)</value>
+  </Language>
+  <Language>
+    <name>frm.btnin</name>
+    <value>In(F8)</value>
+  </Language>
+  <Language>
+    <name>frm.btnfirst</name>
+    <value>First</value>
+  </Language>
+  <Language>
+    <name>frm.btnprev</name>
+    <value>Prev</value>
+  </Language>
+  <Language>
+    <name>frm.btnnext</name>
+    <value>Next</value>
+  </Language>
+  <Language>
+    <name>frm.btnlast</name>
+    <value>Last</value>
+  </Language>
+  <Language>
+    <name>frm.btnsaochep</name>
+    <value>Sao Chép(F3)</value>
+  </Language>
+  <Language>
+    <name>frm.btnthanhtoan</name>
+    <value>Thanh Toán</value>
+  </Language>
+  <Language>
+    <name>f_banhang</name>
+    <value>Bán Hàng &amp; Xuất Kho</value>
+  </Language>
+  <Language>
+    <name>f_banhang.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_banhang.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colkey</name>
+    <value>KEY</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colkeypx</name>
+    <value>KEYPX</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colidsp</name>
+    <value>Sản phẩm</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.gridColumn9</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.gridColumn10</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colsoluong</name>
+    <value>Số Lượng</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.coldongia</name>
+    <value>Đơn Giá</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colnguyente</name>
+    <value>Nguyên Tệ</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colghichu</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.colstt</name>
+    <value>STT</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.gridColumn14</name>
+    <value>Chiết Khấu</value>
+  </Language>
+  <Language>
+    <name>f_banhang.gd.gridColumn15</name>
+    <value>Giá Vốn</value>
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlGroup2</name>
+    <value>Thông Tin Phiếu Xuất Kho</value>
+  </Language>
+  <Language>
+    <name>f_banhang.lblteniddv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_banhang.lbltenloaixuat</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_banhang.ItemForid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemForiddv</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemForngayxuat</name>
+    <value>Ngày Xuất</value>
+  </Language>
+  <Language>
+    <name>f_banhang.loaixuatSearchLookUpEdit.gridColumn1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_banhang.loaixuatSearchLookUpEdit.gridColumn2</name>
+    <value>Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemForloaixuat</name>
+    <value>Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlGroup4</name>
+    <value>Thông Tin Đối Tượng </value>
+  </Language>
+  <Language>
+    <name>f_banhang.lblteniddt</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_banhang.iddtSearchLookUpEdit.gridColumn3</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_banhang.iddtSearchLookUpEdit.gridColumn4</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_banhang.iddtSearchLookUpEdit.gridColumn5</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemForiddt</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemFordiachi</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemFordiengiai</name>
+    <value>Diễn Giải</value>
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlGroup3</name>
+    <value>Người Lập Phiếu</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemForidnv</name>
+    <value>Nhân Viên</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemFortenphongban</name>
+    <value>Phòng/ Ban</value>
+  </Language>
+  <Language>
+    <name>f_banhang.lbltenidnv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlGroup5</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_banhang.tienteSearchLookUpEdit.gridColumn6</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_banhang.tienteSearchLookUpEdit.gridColumn7</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_banhang.tienteSearchLookUpEdit.gridColumn8</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemFortiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_banhang.ItemFortygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlGroup6</name>
+    <value>Quét Mã Vạch</value>
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlItem6</name>
+    <value>Mã vạch</value>
+  </Language>
+  <Language>
+    <name>f_banhang.lbltensp</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_banhang.checksl</name>
+    <value>No</value>
+  </Language>
+  <Language>
+    <name>f_banhang.layoutControlItem8</name>
+    <value>Chọn Số Lượng</value>
+  </Language>
+  <Language>
+    <name>f_banhang.btnreloadsp</name>
+    <value>Reload SP</value>
+  </Language>
+  <Language>
+    <name>f_banhang.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>.f_banhang_title</name>
+    <value>Bán Hàng &amp; Xuất Kho</value>
+  </Language>
+  <Language>
+    <name>f_doidonvi</name>
+    <value>Đổi Đơn Vị làm Việc</value>
+  </Language>
+  <Language>
+    <name>f_doidonvi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_doidonvi.gd.colid</name>
+    <value>ID Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_doidonvi.gd.coltendonvi</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_POS.gd.colchietkhau</name>
+    <value>Chiết Khấu</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang</name>
+    <value>Thu Tiền Bán Hàng</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.layoutControlGroup2</name>
+    <value>Thông tin thanh toán</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.layoutControlItem1</name>
+    <value>Tổng Cần Thanh Toán</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.layoutControlItem2</name>
+    <value>Tổng Đã Thanh Toán</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.layoutControlItem3</name>
+    <value>Tổng Còn Lại</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.layoutControlGroup3</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.ItemForngaythu</name>
+    <value>Ngày Thu Tiền</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.ItemFortiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.ItemFortygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.ItemForthanhtientt</name>
+    <value>Tiền Thanh Toán (KIP)</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.ItemFortientra</name>
+    <value>Tiền Thối (KIP)</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.ItemFortienthu</name>
+    <value>Tiền Nhận(Nguyên tệ)</value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.btnok</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_thutienbanhang.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthutien</name>
+    <value>Phiếu Thu Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemFordiengiai</name>
+    <value>Diễn Giải</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.layoutControlGroup2</name>
+    <value>Thông Tin Phiếu Thu Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemForiddv</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemForid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemForngaythu</name>
+    <value>Ngày Thu</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.lbliddv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthutien.idloaithuSearchLookUpEdit.gridColumn1</name>
+    <value>Mã Loại Thu</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.idloaithuSearchLookUpEdit.gridColumn2</name>
+    <value>Loại Thu</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemForidloaithu</name>
+    <value>Loại Thu</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.lblloaithu</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthutien.layoutControlGroup3</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pthutien.tienteSearchLookUpEdit.gridColumn6</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.tienteSearchLookUpEdit.gridColumn7</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemFortiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemFortygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.layoutControlGroup4</name>
+    <value>Đối Tượng Thu Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.iddtSearchLookUpEdit.gridColumn3</name>
+    <value>Mã Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.iddtSearchLookUpEdit.gridColumn4</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.iddtSearchLookUpEdit.gridColumn5</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemForiddt</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemFordiachi</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.lbliddt</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthutien.layoutControlGroup5</name>
+    <value>Người Lập phiếu</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemForidnv</name>
+    <value>Nhân Viên</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.ItemFortenphongban</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.lblidnv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthutien.gd.colnguyente</name>
+    <value>Nguyên Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.gd.colghichu</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_pthutien.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspthutien</name>
+    <value>Danh Sách Phiếu Thu Tiền</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colngaythu</name>
+    <value>Ngày Thu</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colloaithu</name>
+    <value>Loai Thu</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colname</name>
+    <value>Người Lập</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.coliddt</name>
+    <value>Mã Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colteniddt</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.coldiengiai</name>
+    <value>Diễn Giải</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colteniddv</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.coltiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.coltygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colnguyente</name>
+    <value>Nguyên Tệ</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.gd.colghichu</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.layoutControlGroup1</name>
+    <value>Xem Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.layoutControlItem2</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.layoutControlItem3</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.layoutControlItem4</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.btnsearh</name>
+    <value>Search</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.btnsearchall</name>
+    <value>Search ALL</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.layoutControlGroup2</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.btnin</name>
+    <value>In</value>
+  </Language>
+  <Language>
+    <name>f_dspthutien.btnxls</name>
+    <value>Excel</value>
+  </Language>
+  <Language>
+    <name>f_pchi</name>
+    <value>Phiếu Chi</value>
+  </Language>
+  <Language>
+    <name>f_pchi.Root</name>
+    <value>d</value>
+  </Language>
+  <Language>
+    <name>f_pchi.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemFordiengiai</name>
+    <value>Diễn Giải</value>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup2</name>
+    <value>Thông Tin Phiếu</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForiddv</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_pchi.lbliddv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForngaychi</name>
+    <value>Ngày Chi</value>
+  </Language>
+  <Language>
+    <name>f_pchi.lblloaichi</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.idloaichiSearchLookUpEdit.gridColumn3</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pchi.idloaichiSearchLookUpEdit.gridColumn4</name>
+    <value>Loại Chi</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForidloaichi</name>
+    <value>Loại Chi</value>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup3</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pchi.tienteSearchLookUpEdit.gridColumn1</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pchi.tienteSearchLookUpEdit.gridColumn2</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemFortiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemFortygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup4</name>
+    <value>Đối Tượng Nhận Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pchi.iddtSearchLookUpEdit.gridColumn5</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pchi.iddtSearchLookUpEdit.gridColumn6</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pchi.iddtSearchLookUpEdit.gridColumn7</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForiddt</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemFordiachi</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_pchi.lbliddt</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup5</name>
+    <value>Người Lập</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForidnv</name>
+    <value>Nhân Viên</value>
+  </Language>
+  <Language>
+    <name>f_pchi.ItemForphongban</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_pchi.lblidnv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.gd.colnguyente</name>
+    <value>Nguyên Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pchi.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pchi.gd.colghichu</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_pchi.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspchi</name>
+    <value>Danh Sách Phiếu Chi</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colngaychi</name>
+    <value>Ngày Chi</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colloaichi</name>
+    <value>Loại Chi</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coltenidnv</name>
+    <value>Người Lập</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colphongban</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coliddt</name>
+    <value>Mã Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coltendt</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coldiengiai</name>
+    <value>Diễn Giải</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coltendonvi</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coltiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.coltygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colnguyente</name>
+    <value>Nguyên tệ</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gd.colghichu</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlGroup1</name>
+    <value>Xem Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlItem2</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlItem3</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlItem4</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.btnsearh</name>
+    <value>Search</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.btnsearchall</name>
+    <value>Search ALL</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlGroup2</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.btnin</name>
+    <value>In</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.btnxls</name>
+    <value>Excel</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi</name>
+    <value>Báo Cáo Chi Tiết Thu Chi</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcctthuchi.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.TopMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.BottomMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.Detail</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrPictureBox1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.lbltendv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrLabel18</name>
+    <value>
+CỘNG HÒA DÂN CHỦ NHÂN DÂN LÀO
+Hòa bình - Độc lập - Dân chủ - Thống nhất- Thịnh Vượng</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.txttitle</name>
+    <value>BÁO CÁO</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.txtngayxem</name>
+    <value>Từ Ngày......... Đến ngày.........</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.txtinfo</name>
+    <value>THÔNG TIN</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.ReportHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.PageHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrLabel3</name>
+    <value>NGƯỜI LẬP</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrLabel4</name>
+    <value>(Ký &amp; họ tên)</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrPageInfo2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrLabel2</name>
+    <value>Kế Toán</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrLabel5</name>
+    <value>(Ký &amp; họ tên)</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.ReportFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.xrPageInfo1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_th.PageFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.TopMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.BottomMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.Detail</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrPictureBox1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.lbltendv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrLabel18</name>
+    <value>
+CỘNG HÒA DÂN CHỦ NHÂN DÂN LÀO
+Hòa bình - Độc lập - Dân chủ - Thống nhất- Thịnh Vượng</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.txttitle</name>
+    <value>BÁO CÁO</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.txtngayxem</name>
+    <value>Từ Ngày......... Đến ngày.........</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.txtinfo</name>
+    <value>THÔNG TIN</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.ReportHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.PageHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrLabel3</name>
+    <value>NGƯỜI LẬP</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrLabel4</name>
+    <value>(Ký &amp; họ tên)</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrPageInfo2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrLabel2</name>
+    <value>Kế Toán</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrLabel5</name>
+    <value>(Ký &amp; họ tên)</value>
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.ReportFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.xrPageInfo1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcctthuchi_ct.PageFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh</name>
+    <value>Báo Cáo Kết Quả Kinh Doanh</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.gd.colnoidung</name>
+    <value>Nội Dung</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.gd.colchitiet</name>
+    <value>KIP</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.layoutControlGroup1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.btnsearch</name>
+    <value>Search</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.txtdonvi.gridColumn1</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.txtdonvi.gridColumn2</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_BCKetQuaKinhDoanh.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian</name>
+    <value>Báo Cáo Doanh Thu (Biểu Đồ Đường)</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.chartControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.txtiddv.gridColumn1</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.txtiddv.gridColumn2</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.layoutControlItem11</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu_theothoigian.lbliddv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc</name>
+    <value>Báo Cáo Công Nợ Với Nhà Cung cấp</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bccongno_ncc.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu</name>
+    <value>Báo Cáo Doanh Thu Bán Hàng</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcdoanhthu.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.TopMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.BottomMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.Detail</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrPictureBox1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.lbltendv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrLabel18</name>
+    <value>
+CỘNG HÒA DÂN CHỦ NHÂN DÂN LÀO
+Hòa bình - Độc lập - Dân chủ - Thống nhất- Thịnh Vượng</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.txttitle</name>
+    <value>BÁO CÁO</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.txtngayxem</name>
+    <value>Từ Ngày......... Đến ngày.........</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.txtinfo</name>
+    <value>THÔNG TIN</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.ReportHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.PageHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrLabel3</name>
+    <value>NGƯỜI LẬP</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrLabel4</name>
+    <value>(Ký &amp; họ tên)</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrPageInfo2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrLabel2</name>
+    <value>Kế Toán</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrLabel5</name>
+    <value>(Ký &amp; họ tên)</value>
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.ReportFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.xrPageInfo1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_bcdoanhthu_ct.PageFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_bcnhapkho</name>
+    <value>BÁO CÁO NHẬP KHO</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapkho.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho</name>
+    <value>BÁO CÁO XUẤT KHO</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcxuatkho.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>FrmMain</name>
+    <value>Công cụ dịch ngôn ngữ</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnSave</name>
+    <value>Lưu</value>
+  </Language>
+  <Language>
+    <name>FrmMain.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>FrmMain.layoutControlItem1</name>
+    <value>Đường dẫn</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnActive</name>
+    <value>Kích hoạt</value>
+  </Language>
+  <Language>
+    <name>FrmMain.layoutControlItem5</name>
+    <value>Ngôn ngữ</value>
+  </Language>
+  <Language>
+    <name>f_pnhap</name>
+    <value>Phiếu Nhập Kho</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemFordiengiai</name>
+    <value>Diễn Giải</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colkey</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colkeypn</name>
+    <value>keypn</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colidsp</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.gridColumn1</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.gridColumn2</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colsoluong</name>
+    <value>Số Lượng</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.coldongia</name>
+    <value>Đơn Giá</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colnguyente</name>
+    <value>Nguyên Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colthanhtien</name>
+    <value>Thành Tiền</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.colghichu</name>
+    <value>Ghi Chu</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.gd.stt</name>
+    <value>STT</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup2</name>
+    <value>Thông Tin Phiếu Nhập Kho</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemForid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemForngaynhap</name>
+    <value>Ngày Nhập</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.loainhapSearchLookUpEdit.gridColumn3</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.loainhapSearchLookUpEdit.gridColumn4</name>
+    <value>Loại Nhập</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemForloainhap</name>
+    <value>Loại Nhập</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemForiddv</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.lbliddv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.lblloainhap</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup5</name>
+    <value>Đối Tượng </value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem6</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.iddtSearchLookUpEdit.gridColumn5</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.iddtSearchLookUpEdit.gridColumn6</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.iddtSearchLookUpEdit.gridColumn7</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.iddttxt</name>
+    <value>Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.lbliddt</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup3</name>
+    <value>Người Lập Phiếu</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemFortenphong</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemForidnv</name>
+    <value>Mã Nhân Viên</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.lblidnv</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup4</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pnhap.tienteSearchLookUpEdit.gridColumn8</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.tienteSearchLookUpEdit.gridColumn9</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.tienteSearchLookUpEdit.gridColumn10</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemFortiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.ItemFortygia</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup6</name>
+    <value>Quét Mã Vạch</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem7</name>
+    <value>Mã Vạch</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.lbltensp</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.btnreloadsp</name>
+    <value>reload SP</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton</name>
+    <value>BÁO CÁO NHẬP XUẤT TỒN</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcnhapxuatton.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien</name>
+    <value>BÁO CÁO THU TIEN</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcthutien.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi</name>
+    <value>Báo Cáo Phiếu Chi Tiền</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.layoutControlGroup2</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.gd1.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.gd1.colname</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.btnremoveall</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.btnremove</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.btnaddall</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.btnadd</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.gd2.colid1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.gd2.colname1</name>
+    <value>Name</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.gd2.colloai1</name>
+    <value>loại</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.layoutControlItem11</name>
+    <value>Danh Mục Lựa Chọn</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.btnin</name>
+    <value>Xuất Báo Cáo</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.layoutControlGroup1</name>
+    <value>Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.layoutControlItem1</name>
+    <value>Chọn Thời Gian</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.layoutControlItem2</name>
+    <value>Từ Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.layoutControlItem3</name>
+    <value>Đến Ngày</value>
+  </Language>
+  <Language>
+    <name>f_bcpchi.tgs</name>
+    <value>ToggleSwitch</value>
+  </Language>
+  <Language>
+    <name>f_soluongdongia</name>
+    <value>Thông tin chi tiết</value>
+  </Language>
+  <Language>
+    <name>f_soluongdongia.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_soluongdongia.layoutControlItem1</name>
+    <value>Số Lượng</value>
+  </Language>
+  <Language>
+    <name>f_soluongdongia.layoutControlItem2</name>
+    <value>Đơn Giá</value>
+  </Language>
+  <Language>
+    <name>f_soluongdongia.lblinfo</name>
+    <value>Listening on COM1...
+</value>
+  </Language>
+  <Language>
+    <name>f_sanpham</name>
+    <value>Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlGroup1</name>
+    <value>Thông Tin Chung</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlItem1</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.ckmavach</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlItem7</name>
+    <value>Mã Vạch</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlItem2</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlItem3</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.txtloaisp.gridColumn1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.txtloaisp.gridColumn2</name>
+    <value>Loại Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlItem4</name>
+    <value>Loại Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.lblloaisp</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_sanpham.layoutControlItem6</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.hinhanh</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dsdonvi</name>
+    <value>Danh Sách Đon Vị</value>
+  </Language>
+  <Language>
+    <name>f_dsdonvi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dsdonvi.gd.gridColumn1</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dsdonvi.gd.gridColumn2</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dsdonvi.gd.gridColumn3</name>
+    <value>Nhón Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dsdonvi.gd.gridColumn4</name>
+    <value>Đơn Vị Quản Lý</value>
+  </Language>
+  <Language>
+    <name>f_donvi</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_donvi.layoutControlItem1</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.layoutControlItem2</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.txtnhomdonvi.gridColumn1</name>
+    <value>Mã Nhóm</value>
+  </Language>
+  <Language>
+    <name>f_donvi.txtnhomdonvi.gridColumn2</name>
+    <value>Tên Nhóm</value>
+  </Language>
+  <Language>
+    <name>f_donvi.layoutControlItem3</name>
+    <value>Nhóm Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.txtdvql.gridColumn3</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.txtdvql.gridColumn4</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.txtdvql.gridColumn5</name>
+    <value>Cấp</value>
+  </Language>
+  <Language>
+    <name>f_donvi.layoutControlItem4</name>
+    <value>Đơn Vị Quản Lý</value>
+  </Language>
+  <Language>
+    <name>f_donvi.lbltennhom</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_donvi.layoutControlItem5</name>
+    <value>Cấp Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.lbltendvql</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_donvi.layoutControlItem8</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_connectDB</name>
+    <value>CONNECT DATABASE</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.rdgmode</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem2</name>
+    <value>Server</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem3</name>
+    <value>Database</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem4</name>
+    <value>Username</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem5</name>
+    <value>Password</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.btntestconnect</name>
+    <value>Test Connect</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.btnsave</name>
+    <value>Save &amp;&amp; Exit</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen</name>
+    <value>Phân Quyền</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen.layoutControlGroup1</name>
+    <value>Danh Sách Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen.gd.gridColumn1</name>
+    <value>Mã Phòng</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen.gd.gridColumn2</name>
+    <value>Tên Phòng</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen.layoutControlGroup2</name>
+    <value>Phân Quyền Người Sử Dụng</value>
+  </Language>
+  <Language>
+    <name>f_phanquyen.treeList1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_tientechinh</name>
+    <value>Tiền Tệ Chính</value>
+  </Language>
+  <Language>
+    <name>f_tientechinh.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_tientechinh.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_tientechinh.tentienteSearchLookUpEdit.gridColumn1</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_tientechinh.ItemFortentiente</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount</name>
+    <value>Danh Sách Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.gd.gridColumn1</name>
+    <value>Mã Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.gd.gridColumn2</name>
+    <value>Tên tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.gd.gridColumn3</name>
+    <value>Tên Đăng Nhập</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.gd.gridColumn4</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.gd.gridColumn5</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_dsaccount.gd.gridColumn6</name>
+    <value>Trạng Thái</value>
+  </Language>
+  <Language>
+    <name>f_dsphongban</name>
+    <value>Danh Sách Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_dsphongban.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dsphongban.gd.gridColumn1</name>
+    <value>Mã Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_dsphongban.gd.gridColumn2</name>
+    <value>Tên Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_phongban</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_phongban.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_phongban.layoutControlItem1</name>
+    <value>Mã Phòng</value>
+  </Language>
+  <Language>
+    <name>f_phongban.layoutControlItem2</name>
+    <value>Tên Phòng</value>
+  </Language>
+  <Language>
+    <name>f_account</name>
+    <value>Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_account.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem1</name>
+    <value>Mã Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlGroup1</name>
+    <value>Thông Tin Đăng Nhập</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem3</name>
+    <value>Tên Đăng Nhập</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem4</name>
+    <value>Mật Khẩu</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem5</name>
+    <value>Xác Nhận Mật Khẩu</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlGroup2</name>
+    <value>Thông Tin Chung</value>
+  </Language>
+  <Language>
+    <name>f_account.txtphongban.gridColumn1</name>
+    <value>Mã Phòng</value>
+  </Language>
+  <Language>
+    <name>f_account.txtphongban.gridColumn2</name>
+    <value>Tên Phòng</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem7</name>
+    <value>Phòng Ban</value>
+  </Language>
+  <Language>
+    <name>f_account.txtdonvi.gridColumn3</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_account.txtdonvi.gridColumn4</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem9</name>
+    <value>Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_account.lblphongban</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_account.lbldonvi</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem2</name>
+    <value>Họ Và Tên (Hiển Thị)</value>
+  </Language>
+  <Language>
+    <name>f_account.checkactive</name>
+    <value>Actived</value>
+  </Language>
+  <Language>
+    <name>f_account.layoutControlItem11</name>
+    <value>Actived</value>
+  </Language>
+  <Language>
+    <name>f_account.ckpos</name>
+    <value>POS</value>
+  </Language>
+  <Language>
+    <name>f_ngaysaochep</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_ngaysaochep.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_ngaysaochep.layoutControlGroup1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_ngaysaochep.layoutControlItem1</name>
+    <value>Ngày Chứng Từ Cũ</value>
+  </Language>
+  <Language>
+    <name>f_ngaysaochep.layoutControlItem2</name>
+    <value>Ngày Chứng Từ Mới</value>
+  </Language>
+  <Language>
+    <name>f_ngaysaochep.btnok</name>
+    <value>OK</value>
+  </Language>
+  <Language>
+    <name>f_ngaysaochep.btncancel</name>
+    <value>Cancel</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat</name>
+    <value>Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat.autoGeneratedGroup0</name>
+    <value>autoGeneratedGroup0</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat.ItemForid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat.ItemForloaixuat</name>
+    <value>Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat.doanhthuCheckEdit</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_loaixuat.ItemFordoanhthu</name>
+    <value>Doanh Thu</value>
+  </Language>
+  <Language>
+    <name>f_loaixuat.noiboCheckEdit</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_loaixuat.ItemFornoibo</name>
+    <value>Nội Bộ</value>
+  </Language>
+  <Language>
+    <name>f_dsloaixuat</name>
+    <value>Danh Mục Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_dsloaixuat.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dsloaixuat.gd.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_dsloaixuat.gd.colloaixuat</name>
+    <value>Loại Xuất</value>
+  </Language>
+  <Language>
+    <name>f_dsloaixuat.gd.gridColumn1</name>
+    <value>Doanh Thu</value>
+  </Language>
+</NewDataSet>

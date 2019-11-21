@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C97639DC-4A8B-46DC-89FD-F28EBE4F9D18}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BUS</RootNamespace>
+    <AssemblyName>BUS</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Biencucbo.cs" />
+    <Compile Include="c_account.cs" />
+    <Compile Include="c_chaygiavon.cs" />
+    <Compile Include="c_dmloaichi.cs" />
+    <Compile Include="c_dmloaithu.cs" />
+    <Compile Include="c_dmloaixuat.cs" />
+    <Compile Include="c_doituong.cs" />
+    <Compile Include="c_donvi.cs" />
+    <Compile Include="c_giasp.cs" />
+    <Compile Include="c_history.cs" />
+    <Compile Include="c_loaisp.cs" />
+    <Compile Include="c_muccp.cs" />
+    <Compile Include="c_nhomdoituong.cs" />
+    <Compile Include="c_nhomdonvi.cs" />
+    <Compile Include="c_pchi.cs" />
+    <Compile Include="c_phongban.cs" />
+    <Compile Include="c_pnhap.cs" />
+    <Compile Include="c_pthu.cs" />
+    <Compile Include="c_ptt.cs" />
+    <Compile Include="c_pxuat.cs" />
+    <Compile Include="c_sanpham.cs" />
+    <Compile Include="c_tiente.cs" />
+    <Compile Include="c_tudong.cs" />
+    <Compile Include="c_dmloainhap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="t_chucnang.cs" />
+    <Compile Include="t_skinabc.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{965cb11f-2cf1-413e-ab7f-0a22133a5a5a}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

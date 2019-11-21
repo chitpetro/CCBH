@@ -1,0 +1,1707 @@
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Data.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\Win32Interop.User32.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\Win32Interop.Uxtheme.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\Win32Interop.User32.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\Win32Interop.Uxtheme.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.frm.frmds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.frm.frmthemds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.f_main.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.exe.licenses
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Office.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Images.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Office.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_dsaccount.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_dsdonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_DsNhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_NhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Xpo.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.CodeParser.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Xpo.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Gridcontrol.r_vertical.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_donvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.f_login.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_account.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_phongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_dsphongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_xacnhanmatkhau.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.f_connectDB.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.SplashScreen1.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.f_phanquyen.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dssanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsloaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_loaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsgiasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_giasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsnhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_nhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_doituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_loainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsloainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsloaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_loaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_tiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.HeThong.f_tientechinh.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dstiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\bin\Debug\GUI.exe.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.frm.frmp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.f_ngaysaochep.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.frm.frmmop.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_pxuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspxuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_pthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.f_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.frm.frmreport.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.frm.rp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Nhapkho.f_bcnhapkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Ton.f_bcnhapxuatton.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.XuatKho.f_bcxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien2.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Thu.f_bcthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 05\21052019\CCBH\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien.resources
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\GUI.exe.config
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.exe
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.pdb
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\GUI.exe
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\GUI.pdb
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\BUS.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DAL.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Data.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Images.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Office.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Xpo.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraBars.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\Win32Interop.User32.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\Win32Interop.Uxtheme.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.CodeParser.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\BUS.pdb
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DAL.pdb
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Data.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Office.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Xpo.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraBars.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\Win32Interop.User32.pdb
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\Win32Interop.Uxtheme.pdb
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspchi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspnhap.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspthutien.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_dspxuat.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_pnhap.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_pthutien.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_pxuat.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dmloaichi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dmloaithu.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_doituong.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsdoituong.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsgiasp.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsloainhap.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsloaisp.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsloaixuat.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dsnhomdoituong.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dssanpham.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_dstiente.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_giasp.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_loainhap.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_loaisp.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_loaixuat.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_nhomdoituong.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_sanpham.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaichi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaithu.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.DanhMuc.f_tiente.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.frm.frmds.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.frm.frmmop.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.frm.frmp.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.frm.frmreport.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.frm.frmthemds.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.frm.rp.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.f_connectDB.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.f_login.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.f_ngaysaochep.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.f_pchi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.f_phanquyen.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_account.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_donvi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_dsaccount.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_dsdonvi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_DsNhomDonVi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_dsphongban.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_NhomDonVi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_phongban.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_tientechinh.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.HeThong.f_xacnhanmatkhau.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.f_main.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Gridcontrol.r_vertical.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Nhapkho.f_bcnhapkho.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_ct.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_th.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Thu.f_bcthutien.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Ton.f_bcnhapxuatton.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_ct.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_th.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.XuatKho.f_bcxuatkho.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_ct.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_th.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.SplashScreen1.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.exe.licenses
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.ThuChi.f_bcctthuchi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Chi.f_bcpchi.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_th.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_ct.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_ct.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_th.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_ct.resources
+H:\Solution\CCBH\CCBH\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\GUI.exe.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Data.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Images.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Xpo.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\Win32Interop.User32.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\Win32Interop.Uxtheme.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.CodeParser.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Xpo.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\Win32Interop.User32.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\Win32Interop.Uxtheme.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_dspchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_dspnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_dspthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_dsbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_dsthutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_pthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_banhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.ChucNang.f_thutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_doituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dsdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dsgiasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dsloainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dsnhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dssanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_dstiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_giasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_loainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_loaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_loaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_nhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_tiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmmop.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmreport_dothi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmreport_dothi_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmreport.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.frmthemds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.frm.rp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_connectDB.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_doidonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_login.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_ngaysaochep.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_phanquyen.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_account.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_donvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_dsaccount.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_dsdonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_DsNhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_dsphongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_NhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_phongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_tientechinh.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.HeThong.f_xacnhanmatkhau.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.f_main.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Chi.f_bcpchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Congno_NCC.f_bccongno_ncc.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNoNCC_TH.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNo_NCC_CT.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoanhThu.f_bcdoanhthu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthu_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthuchiphi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Gridcontrol.r_vertical.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Nhapkho.f_bcnhapkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.ThuChi.f_bcctthuchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Thu.f_bcthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Ton.f_bcnhapxuatton.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.XuatKho.f_bcxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.SplashScreen1.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.exe.licenses
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_themmuccp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 08\23082019\GUI\obj\Debug\GUI.DanhMuc.f_muccp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\GUI.exe.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Data.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Images.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Xpo.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\Win32Interop.User32.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\Win32Interop.Uxtheme.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.CodeParser.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Xpo.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\Win32Interop.User32.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\Win32Interop.Uxtheme.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_dspchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_dspnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_dspthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_dsbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_dsthutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_pthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_banhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_thutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_doituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dsdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dsgiasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dsloainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dsnhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dssanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_dstiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_giasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_loainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_loaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_loaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_muccp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_nhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_themmuccp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.DanhMuc.f_tiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmmop.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmreport_dothi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmreport_dothi_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmreport.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmthemds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.rp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_connectDB.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_doidonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_login.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_ngaysaochep.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_phanquyen.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_account.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_donvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_dsaccount.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_dsdonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_DsNhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_dsphongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_NhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_phongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_tientechinh.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_xacnhanmatkhau.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.f_main.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Chi.f_bcpchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Congno_NCC.f_bccongno_ncc.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNoNCC_TH.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNo_NCC_CT.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoanhThu.f_bcdoanhthu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthu_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthuchiphi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Gridcontrol.r_vertical.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Nhapkho.f_bcnhapkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.ThuChi.f_bcctthuchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Thu.f_bcthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Ton.f_bcnhapxuatton.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.XuatKho.f_bcxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.SplashScreen1.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_POS.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_POS2.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\Interop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\AxInterop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\Interop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\AxInterop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia_mavach.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.r_hoadon.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.HeThong.f_history.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ControlLocalizer.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\bin\Debug\ControlLocalizer.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.exe.licenses
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.frm.frmonlydate.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.ChucNang.f_chaygiavon.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.KetQuaKinhDoanh.f_BCKetQuaKinhDoanh.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.Nhapkho.r_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 09\13092019\GUI\obj\Debug\GUI.Report.XuatKho.r_pxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\GUI.exe.config
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\Interop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\AxInterop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ControlLocalizer.exe
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Data.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Images.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Xpo.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\Win32Interop.User32.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\Win32Interop.Uxtheme.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.CodeParser.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ControlLocalizer.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Xpo.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\Win32Interop.User32.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\Win32Interop.Uxtheme.pdb
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\Interop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\bin\Debug\AxInterop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_chaygiavon.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_POS.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dspchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dspnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dspthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dsbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dsthutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_POS2.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_pthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_banhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia_mavach.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_thutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_doituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsgiasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsloainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsnhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dssanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dstiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_giasp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_loainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_loaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_loaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_muccp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_nhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_themmuccp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_tiente.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmmop.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmonlydate.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmreport_dothi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmreport_dothi_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmreport.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.frmthemds.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.frm.rp.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_connectDB.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_doidonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_login.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_ngaysaochep.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_phanquyen.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_account.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_donvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_dsaccount.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_dsdonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_DsNhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_dsphongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_history.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_NhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_phongban.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_tientechinh.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.HeThong.f_xacnhanmatkhau.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.f_main.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Chi.f_bcpchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Congno_NCC.f_bccongno_ncc.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNoNCC_TH.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNo_NCC_CT.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoanhThu.f_bcdoanhthu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthu_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthuchiphi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Gridcontrol.r_vertical.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.r_hoadon.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.KetQuaKinhDoanh.f_BCKetQuaKinhDoanh.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.f_bcnhapkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.r_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.ThuChi.f_bcctthuchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Thu.f_bcthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Ton.f_bcnhapxuatton.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.f_bcxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.r_pxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.SplashScreen1.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.exe.licenses
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Thu.r_pthu.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.Report.Chi.r_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Tháng 10\14102019\GUI\obj\Debug\GUI.r_hoadon_loaito.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\GUI.exe.config
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\Interop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\AxInterop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\GUI.exe
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\GUI.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\BUS.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ControlLocalizer.exe
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Data.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Images.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Xpo.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\Win32Interop.User32.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\Win32Interop.Uxtheme.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.CodeParser.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ControlLocalizer.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Data.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Office.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Xpo.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\Win32Interop.User32.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\Win32Interop.Uxtheme.pdb
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\Interop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\bin\Debug\AxInterop.WMPLib.dll
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_chaygiavon.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_POS.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dspchi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dspnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dspthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dsbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_dsthutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_POS2.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_pthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_banhang.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia_mavach.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_soluongdongia.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.ChucNang.f_thutienbanhang.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_doituong.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsgiasp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsloainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsloaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dsnhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dssanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_dstiente.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_giasp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_loainhap.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_loaisp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_loaixuat.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_muccp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_nhomdoituong.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaichi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_themdmloaithu.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_themmuccp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_tiente.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmds.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmmop.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmonlydate.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmreport_dothi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmreport_dothi_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmreport.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.frmthemds.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.frm.rp.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_connectDB.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_doidonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_login.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_ngaysaochep.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_phanquyen.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_account.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_donvi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_dsaccount.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_dsdonvi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_DsNhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_dsphongban.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_history.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_NhomDonVi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_phongban.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_tientechinh.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.HeThong.f_xacnhanmatkhau.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_main.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Chi.f_bcpchi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Chi.r_bcchitien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Chi.r_pchi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Congno_NCC.f_bccongno_ncc.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNoNCC_TH.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Congno_NCC.r_BCCongNo_NCC_CT.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoanhThu.f_bcdoanhthu.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoanhThu.r_bcdoanhthu_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_doanhthu_theothoigian_bo.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthu_sanpham.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.DoThi.f_dtdoanhthuchiphi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Gridcontrol.r_vertical.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.r_hoadon_loaito.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.r_hoadon.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.KetQuaKinhDoanh.f_BCKetQuaKinhDoanh.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.f_bcnhapkho.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.r_bcnhapkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Nhapkho.r_pnhap.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.ThuChi.f_bcctthuchi.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.ThuChi.r_bcctthuchi_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Thu.f_bcthutien.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Thu.r_bcthutien_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Thu.r_pthu.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Ton.f_bcnhapxuatton.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.Ton.r_bcnhapxuatton_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.f_bcxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_ct.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.r_bcxuatkho_th.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.Report.XuatKho.r_pxuatkho.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.SplashScreen1.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.exe.licenses
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.f_skin.resources
+F:\Solution\winform\Code\CCBH\2019\Thang 10\14102019\GUI\obj\Debug\GUI.DanhMuc.f_giamgia.resources
